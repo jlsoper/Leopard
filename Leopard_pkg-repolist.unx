@@ -1,0 +1,4 @@
+/etc/apt/sources.list.d/mx.list:deb http://mirrors.rit.edu/mxlinux/mx-packages/mx/repo/ buster main non-free
+/etc/apt/sources.list.d/debian.list:deb http://deb.debian.org/debian buster main contrib non-free
+/etc/apt/sources.list.d/debian.list:deb http://deb.debian.org/debian-security buster/updates main contrib non-free
+/etc/apt/sources.list.d/debian-stable-updates.list:deb http://deb.debian.org/debian buster-updates main contrib non-free
