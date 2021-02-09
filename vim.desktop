@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Vim
+Type=Application
+Exec=urxvt -e vim -i NONE
+Comment=Text Editor
+Terminal=false
+Icon=gvim
+Categories=GTK;Development;
