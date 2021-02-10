@@ -318,7 +318,6 @@ ii  gir1.2-webkit2-4.0:amd64              2.28.4-1~deb10u1                    am
 ii  git                                   1:2.20.1-2+deb10u3                  amd64        fast, scalable, distributed revision control system
 ii  git-man                               1:2.20.1-2+deb10u3                  all          fast, scalable, distributed revision control system (manual pages)
 ii  gjs                                   1.54.3-1                            amd64        Mozilla-based javascript bindings for the GNOME platform
-ii  gkrellm                               2.3.10-2+b1                         amd64        GNU Krell Monitors
 ii  glib-networking:amd64                 2.58.0-2+deb10u2                    amd64        network-related giomodules for GLib
 ii  glib-networking-common                2.58.0-2+deb10u2                    all          network-related giomodules for GLib - data files
 ii  glib-networking-services              2.58.0-2+deb10u2                    amd64        network-related giomodules for GLib - D-Bus services
@@ -348,7 +347,6 @@ ii  gpgv                                  2.2.12-1+deb10u1                    am
 ii  grep                                  3.3-1                               amd64        GNU grep, egrep and fgrep
 ii  groff-base                            1.22.4-3                            amd64        GNU troff text-formatting system (base system components)
 ii  growisofs                             7.1-14                              amd64        DVD+-RW/R recorder
-ii  grsync                                1.2.6-2                             amd64        GTK+ frontend for rsync
 ii  grub-common                           2.04-9~mx19+5                       amd64        GRand Unified Bootloader (common files)
 ii  grub-efi-amd64-bin                    2.04-9~mx19+5                       amd64        GRand Unified Bootloader, version 2 (EFI-AMD64 modules)
 ii  grub-efi-ia32-bin                     2.04-9~mx19+5                       amd64        GRand Unified Bootloader, version 2 (EFI-IA32 modules)
@@ -755,7 +753,6 @@ ii  libgmp10:amd64                        2:6.1.2+dfsg-4                      am
 ii  libgnomecanvas2-0:amd64               2.30.3-4                            amd64        powerful object-oriented display engine - runtime files
 ii  libgnomecanvas2-common                2.30.3-4                            all          powerful object-oriented display engine - common files
 ii  libgnomecanvasmm-2.6-1v5              2.26.0-3                            amd64        C++ wrappers for libgnomecanvas2 (shared library)
-ii  libgnutls-openssl27:amd64             3.6.7-4+deb10u5                     amd64        GNU TLS library - OpenSSL wrapper
 ii  libgnutls30:amd64                     3.6.7-4+deb10u5                     amd64        GNU TLS library - main runtime library
 ii  libgoa-1.0-0b:amd64                   3.30.1-2                            amd64        library for GNOME Online Accounts
 ii  libgoa-1.0-common                     3.30.1-2                            all          library for GNOME Online Accounts - common files
@@ -1000,7 +997,6 @@ ii  libnss-mdns:amd64                     0.14.1-1                            am
 ii  libnss-myhostname:amd64               1:241-7~deb10u4+mx19                amd64        nss module providing fallback resolution for the current hostname
 ii  libnss3:amd64                         2:3.42.1-1+deb10u3                  amd64        Network Security Service libraries
 ii  libntfs-3g883                         1:2017.3.23AR.3-3                   amd64        read/write NTFS driver for FUSE (runtime library)
-ii  libntlm0:amd64                        1.5-1+deb10u1                       amd64        NTLM authentication library
 ii  libnuma1:amd64                        2.0.12-1                            amd64        Libraries for controlling NUMA policy
 ii  libnumbertext-1.0-0:amd64             1.0.5-1                             amd64        Number to number name and money text conversion library
 ii  libnumbertext-data                    1.0.5-1                             all          Number to number name and money text conversion library -- data files
@@ -1545,8 +1541,6 @@ ii  mx-conky-data                         20201012mx19                        al
 ii  mx-datetime                           19.10.01                            amd64        MX Date & Time
 ii  mx-dockmaker                          20.10                               amd64        mx-dockmaker
 ii  mx-docs                               20200817mx19                        all          user manual for MX
-ii  mx-fluxbox                            20.11.02                            all          mx apps and configuration defaults for fluxbox (metapackage)
-ii  mx-fluxbox-about                      20.08.04                            all          MX-Fluxbox About
 ii  mx-fluxbox-data                       20.11.02                            all          mx apps and configuration defaults for fluxbox
 ii  mx-goodies                            20.10.01                            all          Various useful scripts for MX.
 ii  mx-gpg-keys                           19.09.01                            all          public gpg keys for iso verification and alert messages
