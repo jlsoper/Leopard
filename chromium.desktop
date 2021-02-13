@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Chromium
+Type=Application
+Comment=chromium --password-store=basic %U
+Exec=/usr/bin/chromium --password-store=basic %U
+Terminal=false
+Icon=chromium
+Categories=Network;WebBrowser;
+StartupNotify=true
+
