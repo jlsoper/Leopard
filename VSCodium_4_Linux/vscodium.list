@@ -1,0 +1,7 @@
+
+#echo 'deb https://paulcarroty.gitlab.io/vscodium-deb-rpm-repo/debs/ vscodium main' | sudo tee --append /etc/apt/sources.list.d/vscodium.list
+
+
+# VSCodium Repository - Free/Libre Open Source Software of VSCode
+deb https://paulcarroty.gitlab.io/vscodium-deb-rpm-repo/debs/ vscodium main
+
