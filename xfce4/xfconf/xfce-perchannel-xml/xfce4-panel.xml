@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=5;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="35"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="20"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="14"/>
+        <value type="int" value="5"/>
+        <value type="int" value="2"/>
+        <value type="int" value="15"/>
+        <value type="int" value="4"/>
+        <value type="int" value="6"/>
+        <value type="int" value="3"/>
+        <value type="int" value="1"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-color" type="array">
+        <value type="uint" value="8481"/>
+        <value type="uint" value="10537"/>
+        <value type="uint" value="13878"/>
+        <value type="uint" value="65535"/>
+      </property>
+      <property name="mode" type="uint" value="0"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.180392"/>
+        <value type="double" value="0.203922"/>
+        <value type="double" value="0.211765"/>
+        <value type="double" value="1.000000"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-15" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="true"/>
+      <property name="workspace-scrolling" type="bool" value="false"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="names-visible" type="array">
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="volumeicon"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="blueman-applet"/>
+        <value type="string" value="apt-notifier.py"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="fbxkb"/>
+      </property>
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="names-hidden" type="array">
+      </property>
+      <property name="size-max" type="uint" value="24"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="notes"/>
+        <value type="string" value="onboard"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="blueman-applet"/>
+        <value type="string" value="volumeicon"/>
+        <value type="string" value="apt-notifier.py"/>
+        <value type="string" value="yad"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="clipit"/>
+      </property>
+    </property>
+    <property name="plugin-20" type="string" value="whiskermenu"/>
+    <property name="plugin-1" type="string" value="xfce4-orageclock-plugin"/>
+    <property name="plugin-7" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="14449098302.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16121962192.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-2" type="string" value="xfce4-mount-plugin"/>
+    <property name="plugin-3" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance17272;chromium.instance17472;chromium.instance18162;chromium.instance19371;chromium.instance21968;chromium.instance23534;chromium.instance26049;chromium.instance26388;chromium.instance2654;chromium.instance28288;chromium.instance30542;chromium.instance4259;chromium.instance9527;firefox.instance10544;firefox.instance11506;firefox.instance11541;firefox.instance11746;firefox.instance11922;firefox.instance12994;firefox.instance13634;firefox.instance13733;firefox.instance16140;firefox.instance16178;firefox.instance16547;firefox.instance16583;firefox.instance17684;firefox.instance19209;firefox.instance19581;firefox.instance20480;firefox.instance21971;firefox.instance23659;firefox.instance24695;firefox.instance25100;firefox.instance27647;firefox.instance2842;firefox.instance29620;firefox.instance29746;firefox.instance30555;firefox.instance32166;firefox.instance3706;firefox.instance3884;firefox.instance3887;firefox.instance3931;firefox.instance3968;firefox.instance3987;firefox.instance4038;firefox.instance4068;firefox.instance4081;firefox.instance4087;firefox.instance4089;firefox.instance4186;firefox.instance4232;firefox.instance4299;firefox.instance4494;firefox.instance4554;firefox.instance4567;firefox.instance4653;firefox.instance4657;firefox.instance4783;firefox.instance4860;firefox.instance4960;firefox.instance5006;firefox.instance5147;firefox.instance5744;firefox.instance5851;firefox.instance5853;firefox.instance6195;firefox.instance6211;firefox.instance6571;firefox.instance6796;firefox.instance6919;firefox.instance7274;firefox.instance7490;firefox.instance7787;firefox.instance9108;firefox.instance9312;vlc"/>
+    </property>
+    <property name="plugin-5" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16132589621.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16129057382.desktop"/>
+      </property>
+    </property>
+  </property>
+  <property name="clipman" type="empty">
+    <property name="tweaks" type="empty">
+      <property name="never-confirm-history-clear" type="bool" value="false"/>
+    </property>
+  </property>
+</channel>
